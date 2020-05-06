@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488067621655",
+    "firebase_url": "https://otro-uber1.firebaseio.com",
+    "project_id": "otro-uber1",
+    "storage_bucket": "otro-uber1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488067621655:android:250e34fd9d3bf6c5ab4d52",
+        "android_client_info": {
+          "package_name": "com.example.otrouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488067621655-26e35buls0k2tbpdc2bigcc1cuko9o3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otrouber",
+            "certificate_hash": "16b904f74a117275cc28c6cc7483cf47a5d8ee64"
+          }
+        },
+        {
+          "client_id": "488067621655-anv9cc3sbqao6dp6golilv64cskof32h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaZeapIvGfFkMMgISdfev0kRDS9BUbSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488067621655-anv9cc3sbqao6dp6golilv64cskof32h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
